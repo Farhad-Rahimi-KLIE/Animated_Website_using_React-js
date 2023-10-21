@@ -1,3 +1,4 @@
+// import react js from react
 import React from 'react'
 import Card from "../Components/Card";
 import Sdata from '../Components/Sdata'
