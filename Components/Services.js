@@ -3,6 +3,7 @@ import Card from "../Components/Card";
 import Sdata from '../Components/Sdata'
 
 const Services = () => {
+  // render the webpage 
   return (
     <div>
         <div className="my-5">
